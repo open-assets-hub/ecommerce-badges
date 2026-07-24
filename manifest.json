@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "repo": "ecommerce-badges",
+  "platform": "ecommerce",
+  "asset_type": "badges",
+  "canonical_url": null,
+  "license": "free-commercial-no-resale",
+  "updated_at": "2026-07-24",
+  "packs": [
+    {
+      "slug": "promo-sale",
+      "name": "E-Commerce Promo Badges",
+      "description": "Collection of promo, sale, and discount badge cliparts for online store marketing",
+      "theme": "promotion",
+      "style": "colorful-mixed",
+      "item_count": 41,
+      "formats": [
+        "png"
+      ],
+      "sizes": [
+        512,
+        256,
+        128
+      ],
+      "origin": "hand-made",
+      "license": "free-commercial-no-resale",
+      "release_tag": null,
+      "canonical_url": null,
+      "preview": {
+        "grid": "packs/promo-sale/preview/grid.png",
+        "in_context": "packs/promo-sale/preview/in-context.png"
+      },
+      "created_at": "2026-07-24",
+      "updated_at": "2026-07-24"
+    }
+  ]
+}

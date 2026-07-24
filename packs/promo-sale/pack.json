@@ -1,0 +1,18 @@
+{
+  "slug": "promo-sale",
+  "name": "E-Commerce Promo Badges",
+  "description": "Collection of promo, sale, and discount badge cliparts for online store marketing",
+  "theme": "promotion",
+  "style": "colorful-mixed",
+  "item_count": 41,
+  "formats": [
+    "png"
+  ],
+  "sizes": [
+    512,
+    256,
+    128
+  ],
+  "origin": "hand-made",
+  "license": "free-commercial-no-resale"
+}
