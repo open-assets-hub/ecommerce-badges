@@ -16,6 +16,8 @@ Use these badges on product pages, social media posts, email campaigns, video ov
 
 45 transparent PNG cliparts · 512, 256, 128px · colorful-mixed
 
+[**Download**](../../releases/tag/ecommerce-flash-sale-v1.0.0)
+
 
 ---
 
