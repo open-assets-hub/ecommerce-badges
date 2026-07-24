@@ -14,7 +14,7 @@ Collection of promo, sale, and discount badge cliparts for online store marketin
 
 ### Video Showcase
 
-https://github.com/user-attachments/assets/showcase.mp4
+https://github.com/open-assets-hub/ecommerce-badges/raw/main/packs/promo-sale/preview/showcase.mp4
 
 > _Badges shown as overlay on dark background — all assets include transparency._
 
