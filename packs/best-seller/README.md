@@ -51,6 +51,8 @@ Best seller, top rated, trending, and customer favorite badge cliparts for e-com
 - Video overlays for product promotions
 - Print materials — flyers, posters, catalogs
 
+[**Download Best Seller & Top Rated Badges**](../../../../releases/tag/ecommerce-best-seller-v1.0.0) — Free for commercial use
+
 ## License
 
 **Free for commercial use.** You may use these assets in personal and commercial projects. Resale or redistribution of the assets themselves is not permitted. See [LICENSE](../../LICENSE) for details.
