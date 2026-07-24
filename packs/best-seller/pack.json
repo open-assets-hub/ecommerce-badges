@@ -1,0 +1,18 @@
+{
+  "slug": "best-seller",
+  "name": "Best Seller & Top Rated Badges",
+  "description": "Best seller, top rated, trending, and customer favorite badge cliparts for e-commerce product pages",
+  "theme": "best-seller",
+  "style": "colorful-mixed",
+  "item_count": 25,
+  "formats": [
+    "png"
+  ],
+  "sizes": [
+    512,
+    256,
+    128
+  ],
+  "origin": "hand-made",
+  "license": "free-commercial-no-resale"
+}
