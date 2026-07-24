@@ -1,0 +1,18 @@
+{
+  "slug": "flash-sale",
+  "name": "Flash Sale Banner Cliparts",
+  "description": "Collection of flash sale badge and label cliparts for online store campaigns",
+  "theme": "flash-sale",
+  "style": "colorful-mixed",
+  "item_count": 45,
+  "formats": [
+    "png"
+  ],
+  "sizes": [
+    512,
+    256,
+    128
+  ],
+  "origin": "hand-made",
+  "license": "free-commercial-no-resale"
+}

@@ -8,12 +8,12 @@
   "updated_at": "2026-07-24",
   "packs": [
     {
-      "slug": "promo-sale",
-      "name": "E-Commerce Promo Badges",
-      "description": "Collection of promo, sale, and discount badge cliparts for online store marketing",
-      "theme": "promotion",
+      "slug": "flash-sale",
+      "name": "Flash Sale Banner Cliparts",
+      "description": "Collection of flash sale badge and label cliparts for online store campaigns",
+      "theme": "flash-sale",
       "style": "colorful-mixed",
-      "item_count": 41,
+      "item_count": 45,
       "formats": [
         "png"
       ],
@@ -24,11 +24,11 @@
       ],
       "origin": "hand-made",
       "license": "free-commercial-no-resale",
-      "release_tag": "ecommerce-promo-sale-v1.0.0",
+      "release_tag": null,
       "canonical_url": null,
       "preview": {
-        "grid": "packs/promo-sale/preview/grid.png",
-        "in_context": "packs/promo-sale/preview/in-context.png"
+        "grid": "packs/flash-sale/preview/grid.png",
+        "in_context": "packs/flash-sale/preview/in-context.png"
       },
       "created_at": "2026-07-24",
       "updated_at": "2026-07-24"
