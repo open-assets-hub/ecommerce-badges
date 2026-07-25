@@ -136,6 +136,32 @@
       },
       "created_at": "2026-07-25",
       "updated_at": "2026-07-25"
+    },
+    {
+      "slug": "guarantee",
+      "name": "Trust & Guarantee Badges",
+      "description": "Money back guarantee, authentic, secure checkout, warranty, and quality badge cliparts for e-commerce",
+      "theme": "trust",
+      "style": "colorful-mixed",
+      "item_count": 25,
+      "formats": [
+        "png"
+      ],
+      "sizes": [
+        512,
+        256,
+        128
+      ],
+      "origin": "hand-made",
+      "license": "free-commercial-no-resale",
+      "release_tag": null,
+      "canonical_url": null,
+      "preview": {
+        "grid": "packs/guarantee/preview/grid.png",
+        "in_context": "packs/guarantee/preview/in-context.png"
+      },
+      "created_at": "2026-07-25",
+      "updated_at": "2026-07-25"
     }
   ]
 }
