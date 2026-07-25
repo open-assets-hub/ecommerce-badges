@@ -1,10 +1,10 @@
 # Ecommerce Badges — Free Transparent PNG Cliparts for E-Commerce
 
-Free collection of **146** transparent PNG badge cliparts for e-commerce websites, online stores, and digital marketing. Available in 512, 256, 128px.
+Free collection of **176** transparent PNG badge cliparts for e-commerce websites, online stores, and digital marketing. Available in 512, 256, 128px.
 
 Use these badges on product pages, social media posts, email campaigns, video overlays, and print materials.
 
-**4 packs** · **146 items** · **Transparent PNG** · **Free for commercial use**
+**5 packs** · **176 items** · **Transparent PNG** · **Free for commercial use**
 
 ---
 
@@ -41,6 +41,12 @@ Use these badges on product pages, social media posts, email campaigns, video ov
 35 transparent PNG cliparts · 512, 256, 128px · colorful-mixed
 
 [**Download**](../../releases/tag/ecommerce-discount-percent-v1.0.0)
+
+### [Free Shipping & Delivery Badges](packs/free-shipping/)
+
+[![Free Shipping & Delivery Badges — 30 free transparent shipping badge cliparts](packs/free-shipping/preview/thumbnail.png)](packs/free-shipping/)
+
+30 transparent PNG cliparts · 512, 256, 128px · colorful-mixed
 
 
 ---
