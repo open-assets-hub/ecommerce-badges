@@ -51,6 +51,8 @@ Money back guarantee, authentic, secure checkout, warranty, and quality badge cl
 - Video overlays for product promotions
 - Print materials — flyers, posters, catalogs
 
+[**Download Trust & Guarantee Badges**](../../../../releases/tag/ecommerce-guarantee-v1.0.0) — Free for commercial use
+
 ## License
 
 **Free for commercial use.** You may use these assets in personal and commercial projects. Resale or redistribution of the assets themselves is not permitted. See [LICENSE](../../LICENSE) for details.
