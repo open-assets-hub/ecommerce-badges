@@ -5,7 +5,7 @@
   "asset_type": "badges",
   "canonical_url": null,
   "license": "free-commercial-no-resale",
-  "updated_at": "2026-07-24",
+  "updated_at": "2026-07-25",
   "packs": [
     {
       "slug": "flash-sale",
@@ -84,6 +84,32 @@
       },
       "created_at": "2026-07-24",
       "updated_at": "2026-07-24"
+    },
+    {
+      "slug": "discount-percent",
+      "name": "Discount & Percent Off Badges",
+      "description": "Discount percentage off, sale, clearance, and deal badge cliparts for e-commerce promotions",
+      "theme": "discount",
+      "style": "colorful-mixed",
+      "item_count": 35,
+      "formats": [
+        "png"
+      ],
+      "sizes": [
+        512,
+        256,
+        128
+      ],
+      "origin": "hand-made",
+      "license": "free-commercial-no-resale",
+      "release_tag": null,
+      "canonical_url": null,
+      "preview": {
+        "grid": "packs/discount-percent/preview/grid.png",
+        "in_context": "packs/discount-percent/preview/in-context.png"
+      },
+      "created_at": "2026-07-25",
+      "updated_at": "2026-07-25"
     }
   ]
 }
