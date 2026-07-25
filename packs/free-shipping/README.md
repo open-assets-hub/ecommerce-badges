@@ -52,6 +52,8 @@ Free shipping, fast delivery, express, and worldwide shipping badge cliparts for
 - Video overlays for product promotions
 - Print materials — flyers, posters, catalogs
 
+[**Download Free Shipping & Delivery Badges**](../../../../releases/tag/ecommerce-free-shipping-v1.0.0) — Free for commercial use
+
 ## License
 
 **Free for commercial use.** You may use these assets in personal and commercial projects. Resale or redistribution of the assets themselves is not permitted. See [LICENSE](../../LICENSE) for details.
