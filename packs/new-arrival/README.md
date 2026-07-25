@@ -51,6 +51,8 @@ New arrival, just in, coming soon, pre-order, and launch badge cliparts for e-co
 - Video overlays for product promotions
 - Print materials — flyers, posters, catalogs
 
+[**Download New Arrival & Coming Soon Badges**](../../../../releases/tag/ecommerce-new-arrival-v1.0.0) — Free for commercial use
+
 ## License
 
 **Free for commercial use.** You may use these assets in personal and commercial projects. Resale or redistribution of the assets themselves is not permitted. See [LICENSE](../../LICENSE) for details.

@@ -64,6 +64,8 @@ Use these badges on product pages, social media posts, email campaigns, video ov
 
 25 transparent PNG cliparts · 512, 256, 128px · colorful-mixed
 
+[**Download**](../../releases/tag/ecommerce-new-arrival-v1.0.0)
+
 
 ---
 
